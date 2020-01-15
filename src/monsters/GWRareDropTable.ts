@@ -6,8 +6,6 @@ const GWMegaRareTable = new LootTable()
 	.addItem('Shield left half', 1, 4)
 	.addItem('Dragon spear', 1, 3);
 
-
-
 export const ShardTable = new LootTable()
 	.addItem('Godsword shard 1')
 	.addItem('Godsword shard 2')
@@ -41,7 +39,6 @@ const GWRareDropTable = new LootTable()
 	.addItem('Dragon med helm', 1, 1)
 	.addItem('Rune kiteshield', 1, 1)
 	.addItem('Rune sword', 1, 5)
-
 
 	/* Other */
 	.addItem('Coins', [19500, 20000], 20)
